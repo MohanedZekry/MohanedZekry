@@ -55,7 +55,8 @@ islamic app contains Qibla (Kaaba) Prayer Times with (Al'azan) - Quran (text - v
 <p><a href="https://play.google.com/store/apps/details?id=com.zad.elrahel.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
 <hr>
-### Quran App
+
+### Quran App <br />
 مصحف الحفظ الميسر (الطبعة الأربعون)
 طريقة مبتكرة لتيسير حفظ القرآن الكريم باستخدام الروابط اللفظية والمعنوية والموضوعية
 مع 1690 وقفة تدبرية ومعاني الكلمات وكلمات قرآنية قد تفهم خطأ والآيات المتشابهات.<br />
