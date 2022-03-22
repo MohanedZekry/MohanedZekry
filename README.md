@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Mohaned Zekry [GitHub Star ⭐](https://stars.github.com/) </h2>
+<h2> Hi there, I'm Mohaned Zekry <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
