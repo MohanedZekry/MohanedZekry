@@ -1,7 +1,9 @@
 <h2> Hi there, I'm Mohaned Zekry <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-<!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
- -->
+<p><em>Sr. Software Enginner at <a href="http://must.edu.eg">Misr University for Science & Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
+Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 - Entrepreneur
 - Senior Software Engineer
 - Flutter :computer: & Android :computer:
@@ -14,14 +16,25 @@ Enthusiastic professional developer of mobile apps who is used to fast-paced env
 
 <h2> Contact with me on </h2>
 
-
 - personal email : mohanedzekry@outlook.com
 - work email : mohaned.zekry@must.edu.eg
 
 <p><a href="https://www.facebook.com/MohanadZekry" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohanedzekry" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<hr>
-
+```javascript
+const Honda = {
+  pronouns: "he" | "his",
+  code: [Kotlin, Java, Dart, C#, .Net, Angular, Typescript],
+  tools: [Flutter, Android, APIs],
+  certificates: {
+                        Udacity: "Android Developer Nanodegree",
+                        MAL Google: "Developing Mobile Apps",
+                        Udacity: "Flutter Advanced"
+                      },
+ challenge: "THINK TWICE - CODE ONCE!"
+}
+```
+ 
 <h2> Samples from my projects </h2>
 
 ### MUST Admission
@@ -44,7 +57,6 @@ islamic app contains Qibla (Kaaba) Prayer Times with (Al'azan) - Quran (text - v
 
 <hr>
 ### Quran - مصحف الحفظ الميسر
-
 الحفظ الميسر (الطبعة الأربعون)
 طريقة مبتكرة لتيسير حفظ القرآن الكريم باستخدام الروابط اللفظية والمعنوية والموضوعية
 مع 1690 وقفة تدبرية ومعاني الكلمات وكلمات قرآنية قد تفهم خطأ والآيات المتشابهات.<br />
