@@ -1,14 +1,14 @@
-<h2> Hi there, Mohaned Zekry 👋:heart: </h2>
+<h2> Hi there, I'm Mohaned Zekry [GitHub Star ⭐](https://stars.github.com/) </h2>
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 - Entrepreneur
 - Senior Software Engineer
-- Flutter & Android projects
+- Flutter :computer: & Android :computer:
 - API (.NET core)
 <hr>
 
-<h2> About me </h2>
+<h2> About me :speech_balloon: </h2>
 Enthusiastic professional developer of mobile apps who is used to fast-paced environments. Hardworking and effective both as a team leader and in an individual role, Articulate, focused developer with more than 3 years spent developing custom mobile apps for businesses. Well-spoken, poised and considered a leader in all sorts of situations.
 <hr>
 
