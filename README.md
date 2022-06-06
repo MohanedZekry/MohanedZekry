@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Mohaned Zekry 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+There+I'm+Mohaned+Zekry;I'm+a+Sr.+Software+Engineer...;Specialized+in+Mobile+Development;And)](https://git.io/typing-svg)
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> </h2>
 
 <p>
