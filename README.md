@@ -1,6 +1,7 @@
-<h2> Hi there, I'm Mohaned Zekry <img src="https://komarev.com/ghpvc/?username=MohanedZekry&style=flat-square&color=blue" alt="">
+<h2> Hi there, I'm Mohaned Zekry 
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> </h2>
 
+<p><img src="https://komarev.com/ghpvc/?username=MohanedZekry&style=flat-square&color=blue" alt=""></p>
 <p><em>Sr. Software Engiener at <a href="http://must.edu.eg">Misr University for Science & Technology </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
