@@ -88,4 +88,10 @@ employee can search on specific resolution, keep tracking his status.<br />
 
 <p><a href="https://play.google.com/store/apps/details?id=com.must.muststuff" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
  
+ <p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohanedZekry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohanedZekry&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
  
