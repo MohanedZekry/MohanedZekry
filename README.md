@@ -82,4 +82,12 @@ Resolutions System allow employees aware of everything new .
 it give a notification to inform that a new resolution is added.
 employee can search on specific resolution, keep tracking his status.<br />
 
-<p><a href="https://play.google.com/store/apps/details?id=com.must.muststuff" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.must.muststuff" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohanedzekry&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanedzekry&theme=chartreuse-dark" />
+</p>  
+ 
+ 
+ 
