@@ -51,6 +51,12 @@ const Honda = {
  
 <h2> Samples from my projects </h2>
 
+### MUSTER
+MUSTER mobile application empowers the university's mobile communication strategy, as today's students are dependent on their smart phones for text, email, social media or calling throughout the day.
+MUSTER mobile application provides an opportunity to effectively generate meaningful engagement with students.
+<p><a href="https://play.google.com/store/apps/details?id=com.integrity.mustapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/eg/app/muster-must-university/id1661778690" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
 ### MUST Admission
 Misr University for Science and Technology admission online form to process which students can join the university and choose from 14 colleges. Within a centralized admissions environment determines student applicants admissibility to the University, and applicant can track his application and exam status.<br />
 <p><a href="https://play.google.com/store/apps/details?id=com.must.admissions" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
