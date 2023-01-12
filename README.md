@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=9ED6F8&size=30&lines=Hey!+There;I'm+Mohaned+Zekry...;I'm+Sr.+Software+Engineer...;Specialized+in+Mobile+Dev..)](https://git.io/typing-svg)
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> </h2>
 
 <p>
 <div align="center">
