@@ -50,7 +50,7 @@ const Honda = {
  
 <h2> Samples from my projects </h2>
 
-### MUSTER
+### MUSTER | MUST University
 MUSTER mobile application empowers the university's mobile communication strategy, as today's students are dependent on their smart phones for text, email, social media or calling throughout the day.
 MUSTER mobile application provides an opportunity to effectively generate meaningful engagement with students.
 <p><a href="https://play.google.com/store/apps/details?id=com.integrity.mustapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
