@@ -20,7 +20,7 @@ Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <hr>
 
 <h2> About me :speech_balloon: </h2>
-Enthusiastic professional developer of mobile apps who is used to fast-paced environments. Hardworking and effective both as a team leader and in an individual role, Articulate, focused developer with more than 3 years spent developing custom mobile apps for businesses. Well-spoken, poised and considered a leader in all sorts of situations.
+Senior Software Engineer with +4 years experience in software development lifecycle (SDLC) including analysis, design, development, and testing. Experience in Mobile Apps for iOS & Android. Skilled, motivated and product-oriented developer with strong Object Oriented Programming Concepts, Best known for abilities in application development, team leadership, technological strategy development, collaborative innovation and technical trend analysis.
 <hr>
 
 <h2> Contact with me on </h2>
