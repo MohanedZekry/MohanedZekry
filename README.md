@@ -1,6 +1,4 @@
-<p align="center">
  # Mohaned Zekry
-</p>	
 <img src="https://raw.githubusercontent.com/MohanedZekry/MohanedZekry/main/waves.svg" width="100%" height="150">
 
 <p>
