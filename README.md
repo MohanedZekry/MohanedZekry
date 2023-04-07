@@ -1,5 +1,5 @@
-<p align="center" style="font-size:40px">
- Mohaned Zekry
+<p align="center">
+ <b style="font-size:40px">Mohaned Zekry</b>
 </p>	
 <img src="https://raw.githubusercontent.com/MohanedZekry/MohanedZekry/main/waves.svg" width="100%" height="150">
 
