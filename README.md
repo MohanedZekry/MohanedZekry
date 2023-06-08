@@ -49,6 +49,17 @@ Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - Entrepreneur :rocket:
 - Problem Solver :computer:
 - Creative :bulb:
+
+Key Skills :
+- Cross-Platform Frameworks: Flutter
+- Mobile App Development (Android, iOS)
+- Programming Languages: Dart, Java, Kotlin, Swift
+- Backend Technologies: .NET Core, RESTful APIs, Firebase Technologies
+- UI/UX Design Principles
+- Agile Development Methodologies
+- Problem-solving and Troubleshooting
+- Team Collaboration and Leadership
+
 <hr>
 
 <h2> About me :speech_balloon: </h2>
