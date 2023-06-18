@@ -51,7 +51,7 @@ Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - Creative :bulb:
 
 Key Skills :
-- Cross-Platform Frameworks: Flutter
+- Cross-Platform Frameworks: Flutter | KMM
 - Mobile App Development (Android, iOS)
 - Programming Languages: Dart, Java, Kotlin, Swift
 - Backend Technologies: .NET Core, RESTful APIs, Firebase Technologies
