@@ -53,8 +53,8 @@ Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 Key Skills :
 - Cross-Platform Frameworks: Flutter | KMM
 - Mobile App Development (Android, iOS)
-- Programming Languages: Dart, Java, Kotlin, Swift
-- Backend Technologies: .NET Core, RESTful APIs, Firebase Technologies
+- Programming Languages: Dart, Kotlin, Java, C#, Swift
+- Backend Technologies: .NET Core, .NET MVC, RESTful APIs, Firebase Technologies, Hangfire, SocketIO
 - UI/UX Design Principles
 - Agile Development Methodologies
 - Problem-solving and Troubleshooting
