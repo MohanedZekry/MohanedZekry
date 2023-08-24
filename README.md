@@ -63,7 +63,7 @@ Key Skills :
 <hr>
 
 <h2> About me :speech_balloon: </h2>
-Senior Software Engineer with +4 years experience in software development lifecycle (SDLC) including analysis, design, development, and testing. Experience in Mobile Apps for iOS & Android. Skilled, motivated and product-oriented developer with strong Object Oriented Programming Concepts, Best known for abilities in application development, team leadership, technological strategy development, collaborative innovation and technical trend analysis.
+Software Development Lead with +4 years experience in software development lifecycle (SDLC) including analysis, design, development, and testing. Experience in Mobile Apps for iOS & Android. Skilled, motivated and product-oriented developer with strong Object Oriented Programming Concepts, Best known for abilities in application development, team leadership, technological strategy development, collaborative innovation and technical trend analysis.
 <hr>
 
 <h2> Contact with me on </h2>
