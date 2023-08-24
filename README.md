@@ -1,6 +1,6 @@
 <p align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=9ED6F8&size=30&lines=Hey!+There;I'm+Mohaned+Zekry...;I'm+Sr.+Software+Engineer...;Specialized+in+Mobile+Dev..)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=9ED6F8&size=30&lines=Hey!+There;I'm+Mohaned+Zekry...;I'm+Software+Development+Lead...;Specialized+in+Mobile+Dev..)](https://git.io/typing-svg)
  <img src="https://raw.githubusercontent.com/MohanedZekry/MohanedZekry/main/waves.svg" width="100%" height="150">
 
 </p>
@@ -42,7 +42,7 @@
 
 
 <p><img src="https://komarev.com/ghpvc/?username=MohanedZekry&style=flat-square&color=blue" alt=""></p>
-<p><em>Sr. Software Engiener at <a href="http://must.edu.eg">Misr University for Science & Technology </a></br> 
+<p><em>Software Development Lead at <a href="http://must.edu.eg">Misr University for Science & Technology </a></br> 
 Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
