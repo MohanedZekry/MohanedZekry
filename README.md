@@ -25,8 +25,9 @@
 - Problem-solving and Troubleshooting
 - Team Collaboration and Leadership
 
+<p><img src="https://komarev.com/ghpvc/?username=MohanedZekry&style=flat-square&color=blue" alt=""></p>
 <p><em>🧑‍💻 Software Development Lead at <a href="http://must.edu.eg">Misr University for Science & Technology </a></br> 
-
+</em></p>
 
 <h2> Contact with me on </h2>
 
