@@ -5,6 +5,7 @@
 <br />
 
 👋 Hello! I'm Mohaned Zekry,
+<p><img src="https://komarev.com/ghpvc/?username=MohanedZekry&style=flat-square&color=blue" alt=""></p>
 
 ✨ 6+ amazing projects.
 📱 Software Engineer with +5 years experience in SDLC
@@ -25,7 +26,6 @@
 - Problem-solving and Troubleshooting
 - Team Collaboration and Leadership
 
-<p><img src="https://komarev.com/ghpvc/?username=MohanedZekry&style=flat-square&color=blue" alt=""></p>
 <p><em>🧑‍💻 Software Development Lead at <a href="http://must.edu.eg">Misr University for Science & Technology </a></br> 
 </em></p>
 
