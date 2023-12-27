@@ -7,7 +7,7 @@
 👋 Hello! I'm Mohaned Zekry,
 
 ✨ 6+ amazing projects.
-📱 Software Engineer with +5 years experience in software development lifecycle
+📱 Software Engineer with +5 years experience in SDLC
 🎓 Bachelor degree in Computer Science.
 
 <h2> About me :speech_balloon: </h2>
