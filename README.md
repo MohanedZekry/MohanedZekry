@@ -12,8 +12,9 @@
 
 <h2> About me :speech_balloon: </h2>
 🚀 Software Engineer with +5 years experience in software development lifecycle (SDLC) including analysis, design, development, and testing. Experience in software apps for both web & mobile. Skilled, motivated and product-oriented developer with strong Object Oriented Programming Concepts, Best known for abilities in application development, team leadership, technological strategy development, collaborative innovation and technical trend analysis.
-
 <br />
+<br />
+
 🌟 Key Skills :
 - Cross-Platform Frameworks: Flutter | KMM
 - Mobile App Development (Android, iOS)
