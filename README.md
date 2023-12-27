@@ -25,6 +25,9 @@
 - Problem-solving and Troubleshooting
 - Team Collaboration and Leadership
 
+<p><em>🧑‍💻 Software Development Lead at <a href="http://must.edu.eg">Misr University for Science & Technology </a></br> 
+
+
 <h2> Contact with me on </h2>
 
 - personal email : mohanedzekry@outlook.com
