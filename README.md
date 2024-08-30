@@ -29,6 +29,8 @@
 <p><em>🧑‍💻 Software Development Lead at <a href="http://must.edu.eg">Misr University for Science & Technology </a></br> 
 </em></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohanedzekry)](https://github.com/MohanedZekry)
+
 <h2> Contact with me on </h2>
 
 - personal email : mohanedzekry@outlook.com
