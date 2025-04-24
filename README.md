@@ -8,7 +8,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=MohanedZekry&style=flat-square&color=blue" alt=""></p>
 
 ✨ 6+ amazing projects.
-📱 Software Engineer with +5 years experience in SDLC
+📱 Software Engineer with +6 years experience in SDLC
 🎓 Bachelor degree in Computer Science.
 
 <h2> About me :speech_balloon: </h2>
